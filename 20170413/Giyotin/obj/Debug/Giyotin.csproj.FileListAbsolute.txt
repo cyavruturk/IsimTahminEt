@@ -1,0 +1,33 @@
+c:\users\ceren\documents\visual studio 2013\Projects\20170413\Giyotin\bin\Debug\Giyotin.exe.config
+c:\users\ceren\documents\visual studio 2013\Projects\20170413\Giyotin\bin\Debug\Giyotin.exe
+c:\users\ceren\documents\visual studio 2013\Projects\20170413\Giyotin\bin\Debug\Giyotin.pdb
+c:\users\ceren\documents\visual studio 2013\Projects\20170413\Giyotin\obj\Debug\Giyotin.csprojResolveAssemblyReference.cache
+c:\users\ceren\documents\visual studio 2013\Projects\20170413\Giyotin\obj\Debug\Giyotin.Form1.resources
+c:\users\ceren\documents\visual studio 2013\Projects\20170413\Giyotin\obj\Debug\Giyotin.Properties.Resources.resources
+c:\users\ceren\documents\visual studio 2013\Projects\20170413\Giyotin\obj\Debug\Giyotin.csproj.GenerateResource.Cache
+c:\users\ceren\documents\visual studio 2013\Projects\20170413\Giyotin\obj\Debug\Giyotin.exe
+c:\users\ceren\documents\visual studio 2013\Projects\20170413\Giyotin\obj\Debug\Giyotin.pdb
+C:\Users\Ceren\Documents\Visual Studio 2013\Projects\20170413\Giyotin\obj\Debug\Interop.SpeechLib.dll
+C:\Users\Ceren\Documents\Visual Studio 2013\Projects\20170413\Giyotin\obj\Debug\Giyotin.csproj.ResolveComReference.cache
+C:\Users\Crnyvrtrk\Downloads\20170412\20170412\20170412\20170413\Giyotin\bin\Debug\Giyotin.exe.config
+C:\Users\Crnyvrtrk\Downloads\20170412\20170412\20170412\20170413\Giyotin\obj\Debug\Interop.SpeechLib.dll
+C:\Users\Crnyvrtrk\Downloads\20170412\20170412\20170412\20170413\Giyotin\obj\Debug\Giyotin.csproj.ResolveComReference.cache
+C:\Users\Crnyvrtrk\Downloads\20170412\20170412\20170412\20170413\Giyotin\obj\Debug\Giyotin.exe
+C:\Users\Crnyvrtrk\Downloads\20170412\20170412\20170412\20170413\Giyotin\obj\Debug\Giyotin.pdb
+C:\Users\Crnyvrtrk\Downloads\20170412\20170412\20170412\20170413\Giyotin\bin\Debug\Giyotin.exe
+C:\Users\Crnyvrtrk\Downloads\20170412\20170412\20170412\20170413\Giyotin\bin\Debug\Giyotin.pdb
+C:\Users\Crnyvrtrk\Downloads\20170412\20170412\20170412\20170413\Giyotin\obj\Debug\Giyotin.csprojResolveAssemblyReference.cache
+C:\Users\Crnyvrtrk\Downloads\20170412\20170412\20170412\20170413\Giyotin\obj\Debug\Giyotin.Form1.resources
+C:\Users\Crnyvrtrk\Downloads\20170412\20170412\20170412\20170413\Giyotin\obj\Debug\Giyotin.Properties.Resources.resources
+C:\Users\Crnyvrtrk\Downloads\20170412\20170412\20170412\20170413\Giyotin\obj\Debug\Giyotin.csproj.GenerateResource.Cache
+C:\Users\Crnyvrtrk\Documents\Visual Studio 2013\Projects\20170412\20170412\20170412\20170413\Giyotin\bin\Debug\Giyotin.exe.config
+C:\Users\Crnyvrtrk\Documents\Visual Studio 2013\Projects\20170412\20170412\20170412\20170413\Giyotin\obj\Debug\Interop.SpeechLib.dll
+C:\Users\Crnyvrtrk\Documents\Visual Studio 2013\Projects\20170412\20170412\20170412\20170413\Giyotin\obj\Debug\Giyotin.csproj.ResolveComReference.cache
+C:\Users\Crnyvrtrk\Documents\Visual Studio 2013\Projects\20170412\20170412\20170412\20170413\Giyotin\obj\Debug\Giyotin.exe
+C:\Users\Crnyvrtrk\Documents\Visual Studio 2013\Projects\20170412\20170412\20170412\20170413\Giyotin\obj\Debug\Giyotin.pdb
+C:\Users\Crnyvrtrk\Documents\Visual Studio 2013\Projects\20170412\20170412\20170412\20170413\Giyotin\bin\Debug\Giyotin.exe
+C:\Users\Crnyvrtrk\Documents\Visual Studio 2013\Projects\20170412\20170412\20170412\20170413\Giyotin\bin\Debug\Giyotin.pdb
+C:\Users\Crnyvrtrk\Documents\Visual Studio 2013\Projects\20170412\20170412\20170412\20170413\Giyotin\obj\Debug\Giyotin.csprojResolveAssemblyReference.cache
+C:\Users\Crnyvrtrk\Documents\Visual Studio 2013\Projects\20170412\20170412\20170412\20170413\Giyotin\obj\Debug\Giyotin.Form1.resources
+C:\Users\Crnyvrtrk\Documents\Visual Studio 2013\Projects\20170412\20170412\20170412\20170413\Giyotin\obj\Debug\Giyotin.Properties.Resources.resources
+C:\Users\Crnyvrtrk\Documents\Visual Studio 2013\Projects\20170412\20170412\20170412\20170413\Giyotin\obj\Debug\Giyotin.csproj.GenerateResource.Cache
